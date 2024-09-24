@@ -3,8 +3,6 @@
 
 ![](https://www.uwaterregistry.io/Registry/Generate?code=https%3A%2F%2Fwww.uwaterregistry.io%2FRegistry%2FDetails%3Fid%3DZgmwmrgtcQiCLhPi6KCG0Q%253D%253D&size=2)
 
-![](https://a23e347601d72166dcd6-16da518ed3035d35cf0439f1cdf449c9.ssl.cf2.rackcdn.com//ProjectDocuments/638605534610873702WhatsApp%20Video%202024-08-29%20at%206.15.39%20PM.mp4)
-
 UWR RoU Scope: Scope 5
 
 Latitude - 8°35'28.2"N

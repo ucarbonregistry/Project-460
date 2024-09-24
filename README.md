@@ -1,7 +1,7 @@
 # Project-460
 1.76 MLD Wastewater Recycling by DCW Limited in Tamil Nadu
 
-https://www.uwaterregistry.io/Registry/Generate?code=https%3A%2F%2Fwww.uwaterregistry.io%2FRegistry%2FDetails%3Fid%3DZgmwmrgtcQiCLhPi6KCG0Q%253D%253D&size=2
+![](https://www.uwaterregistry.io/Registry/Generate?code=https%3A%2F%2Fwww.uwaterregistry.io%2FRegistry%2FDetails%3Fid%3DZgmwmrgtcQiCLhPi6KCG0Q%253D%253D&size=2)
 
 UWR RoU Scope: Scope 5
 

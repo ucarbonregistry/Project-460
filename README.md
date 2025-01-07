@@ -49,5 +49,15 @@ security by minimizing its overall water footprint. Through these efforts, DCW n
 current water resources but also contributes to a secure and sustainable water future for the
 Sahupuram region. 
 
-
 ______________
+ISSUANCE DATE: 07/01/2025
+
+MP-01 Period: 01/10/2023-31/12/2023
+
+QTY: 49268 RoUs
+_________________
+Serial Number: 0001-000001-049268-UCR-RoU-IN-460-01102023-31122023
+
+Vintage Year: 2023
+
+Quantity: 49268 RoUs
